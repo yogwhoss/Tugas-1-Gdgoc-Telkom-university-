@@ -1,7 +1,7 @@
-const nama = "budi"
-const umur = 17
+// const nama = "budi"
+// const umur = 17
 
-console.log("maaf " + nama + ", umur kamu kurang " + (21 - umur) + " tahun lagi ");
+// console.log("maaf " + nama + ", umur kamu kurang " + (21 - umur) + " tahun lagi ");
 
 // const nama = "andi";
 // const umur =25;
@@ -19,17 +19,16 @@ console.log("maaf " + nama + ", umur kamu kurang " + (21 - umur) + " tahun lagi 
 // }
 // if else dengan kondisi uang kurang dari 100 ribu 
 
-// const nama = "sultan";
-// const umur =25;
-// const uang = 1000000; 
+const nama = "sultan";
+const umur =25;
+const uang = 1000000; 
 
-// if (umur < 21) {
-//     console.log('maaf ' + nama + ', umur kamu kurang ' + (21 - umur ) + ' tahun lagi ');
-// } else {
-//      if (uang < 500000) {
-//         console.log('maaf ' + nama + ', uang kamu kurang ');   
-//     } else {
-//      console.log('selamat datang, ' + nama );
-//     }
-// }
-// if else dengan kondisi sultan berhasil memasuki club di malam hari
+if (umur < 21) {
+    console.log('maaf ' + nama + ', umur kamu kurang ' + (21 - umur ) + ' tahun lagi ');
+} else {
+     if (uang < 500000) {
+        console.log('maaf ' + nama + ', uang kamu kurang ');   
+    } else {
+     console.log('selamat datang, ' + nama );
+    }
+}
