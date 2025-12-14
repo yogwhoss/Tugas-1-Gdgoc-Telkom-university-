@@ -12,7 +12,7 @@
 //     console.log('maaf ' + nama + ', umur kamu kurang ' + (21 - umur ) + ' tahun lagi ');
 // } else {
 //      if (uang < 500000) {
-//         console.log('maaf ' + nama + ', uang kamu kurang 100 ribu datang lain kali');   
+//         console.log('maaf ' + nama + ', uang kamu cuma 100 ribu datang lagi lain kali');   
 //     } else {
 //      console.log('selamat datang ' + nama );
 //     }
